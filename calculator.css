@@ -55,9 +55,3 @@ button{
 .operator{
     color: #6dee0a;
 }
-
-@media only screen and (max-width: 620px){
-    input{
-        width: 50%;
-    }
-}
